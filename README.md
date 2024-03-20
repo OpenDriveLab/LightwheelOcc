@@ -6,7 +6,7 @@
 [![LightwheelOcc](https://img.shields.io/badge/LightwheelOcc-v1.0-yellow)](https://lightwheel.ai/)
 [![LightwheelAI](https://img.shields.io/badge/Lightwheel_AI-Website-blueviolet)](https://lightwheel.ai/)
 
-<img src="resources/occ_video.gif">
+<img src="resources/occ_video.gif" title="Gif loading, please wait..">
 
 </div>
 
