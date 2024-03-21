@@ -25,7 +25,8 @@
 - [Getting Started](#getting-started)
   - [Download Data](#download-data)
   - [Prepare Dataset](#prepare-dataset)
-- [Contact Us](#contact-us)
+- [License and Citation](#license-and-citation)
+- [Related Resources](#related-resources)
 
 
 ## Introduction
@@ -63,6 +64,23 @@
 ## Getting Started
 - [Download Data](/docs/getting_started.md#download-data)
 - [Prepare Dataset](/docs/getting_started.md#prepare-dataset)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## License and Citation
+
+The LightwheelOcc dataset is under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
+All assets and code within this repository are under the [Apache 2.0](/LICENSE.txt) license unless specified otherwise.
+
+If this work is helpful for your research, please consider citing the following BibTeX entry.
+```
+@misc{lightwheel2024,
+  title={LightwheelOcc: A 3D Occupancy Synthetic Dataset in Autonomous Driving} ,
+  author={LightwheelAI and LightwheelOcc contributors},
+  howpublished={\url{https://github.com/OpenDriveLab/LightwheelOcc}},
+  year={2024}
+}
+```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
