@@ -9,6 +9,7 @@
 | Number of Cameras | 6                                   |
 | Number of Images  | 240,000                             |
 | Image resolution  | 1600x900                            |
+| Frequency         | 10 Hz                               |
 | Voxel Size        | 0.4 m                               |
 | Range             | [-40, -40, -1.0, 40, 40, 5.4] m     |
 | Classes           | 17                                  |

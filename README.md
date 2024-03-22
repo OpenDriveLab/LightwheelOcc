@@ -13,6 +13,8 @@
 > - Point of Contact: [Lightwheel AI](mailto:contact@lightwheel.ai) or [Tianyu (李天羽)](mailto:litianyu@pjlab.org.cn)
 
 ## News
+> :fire: China3DV Occupancy and Flow Challenge is ongoing! Check challenge [doc](/docs/challenge_china3dv.md)!
+
 - **`2024/03/20`** LightwheelOcc dataset `v1.0` released.
 - **`2024/03/01`** We are hosting CVPR 2024 Autonomous Grand Challenge and China3DV AD Challenge!
 
