@@ -1,4 +1,4 @@
-# China3DV - 占据栅格与运动估计 竞赛主文档
+# China3DV - 占据栅格与运动估计
 > 官方网站: :globe_with_meridians: [China3DV](http://www.csig3dv.net/2024/competition.html)  
 > 评测服务器: :hugs: [Hugging Face](https://huggingface.co/spaces/China3DV-S/occupancy-and-flow-2024)
 
@@ -38,7 +38,7 @@ nuScenes 占据栅格与运动估计训练标签 OpenOcc 下载请详见 <a href
 3. 在本地测试`nuScenes OpenOcc val`与`Lightwheel val`的评测是否符合预期。
 4. 将`nuScenes OpenOcc test`集与`Lightwheel test`的预测结果按 1、 2 两步保存、投影，并上传至竞赛服务器。
 
-> 光线投影方法请参考 CVPR AGC 2024 占据栅格与运动估计姊妹竞赛[文档]](https://github.com/OpenDriveLab/OccNet/blob/challenge/docs/getting_started.md#test-submission)，一键运行脚本将很快更新！
+> 光线投影方法请参考 CVPR AGC 2024 占据栅格与运动估计姊妹竞赛[文档](https://github.com/OpenDriveLab/OccNet/blob/challenge/docs/getting_started.md#test-submission)，一键运行脚本将很快更新！
 
 最终保存的文件结构为：
 
