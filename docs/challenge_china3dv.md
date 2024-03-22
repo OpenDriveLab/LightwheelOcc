@@ -18,7 +18,7 @@ nuScenes 数据集下载请详见 <a href="https://www.nuscenes.org/nuscenes" ta
 
 nuScenes 占据栅格与运动估计训练标签 OpenOcc 下载请详见 <a href="https://github.com/OpenDriveLab/OccNet?tab=readme-ov-file#data" target="_blank"> 文档 </a>。
 
-## LightwheelOcc 光轮占据栅格仿真数据集
+### LightwheelOcc 光轮占据栅格仿真数据集
 
 请参考本仓库 [Getting Started](/docs/getting_started.md)。
 
