@@ -1,7 +1,9 @@
 # Getting Started
 ## Download Data
 
-The dataset files can be downloaded via [OpenDataLab](https://openxlab.org.cn/datasets/OpenDriveLab/LightwheelOcc) and :hugs: [Hugging Face](https://huggingface.co/datasets/OpenDriveLab/LightwheelOcc/tree/main/lightwheelocc-v1.0).
+The dataset files can be downloaded via [OpenDriveLab](https://openxlab.org.cn/datasets/OpenDriveLab/LightwheelOcc) and :hugs: [Hugging Face](https://huggingface.co/datasets/OpenDriveLab/LightwheelOcc/tree/main/lightwheelocc-v1.0).
+
+For now, the **depth** label is only available on Hugging Face!
 
 ## Prepare Dataset
 
@@ -84,3 +86,4 @@ Each pickle file is formatted as follows:
 - The filepath is the relative path to `lightwheelocc`.
 - The occupancy label is in `ego` coordinate system.
 - The `ego` and `lidar` coordinate system is the same. We keep those keys for better compatibility.
+- You can refer to [toturial.ipynb](toturial.ipynb) for the using of depth and occupancy label.
